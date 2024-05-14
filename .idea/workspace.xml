@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0aa2f83-95f1-4820-87d2-e9e274c4457a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/GeometryFigure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigure.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/Ellipse.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/GeometricFigure.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/GeometryFigureLib.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/Line.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/Point.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/Polygon.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/bin/Debug/net7.0/GeometryFigureLib.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/bin/Debug/net7.0/GeometryFigureLib.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/bin/Debug/net7.0/GeometryFigureLib.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/obj/Debug/net7.0/GeometryFigureLib.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/obj/Debug/net7.0/GeometryFigureLib.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/obj/Debug/net7.0/GeometryFigureLib.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/obj/Debug/net7.0/GeometryFigureLib.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/obj/Debug/net7.0/GeometryFigureLib.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/obj/Debug/net7.0/GeometryFigureLib.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/obj/Debug/net7.0/GeometryFigureLib.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/obj/Debug/net7.0/GeometryFigureLib.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/obj/Debug/net7.0/GeometryFigureLib.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/obj/Debug/net7.0/ref/GeometryFigureLib.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/obj/Debug/net7.0/refint/GeometryFigureLib.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/obj/GeometryFigureLib.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/obj/GeometryFigureLib.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/obj/GeometryFigureLib.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureLib/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/GeometryFigureUi.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/GeometryFigureUi.csproj.DotSettings.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/View/App.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/View/App.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/View/MainWindow.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/View/MainWindow.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/ViewModel/FigureNameConverter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/ViewModel/MainWindowViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/bin/Debug/net7.0-windows/GeometryFigureLib.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/bin/Debug/net7.0-windows/GeometryFigureLib.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/bin/Debug/net7.0-windows/GeometryFigureUi.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/bin/Debug/net7.0-windows/GeometryFigureUi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/bin/Debug/net7.0-windows/GeometryFigureUi.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/bin/Debug/net7.0-windows/GeometryFigureUi.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/bin/Debug/net7.0-windows/GeometryFigureUi.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeneratedInternalTypeHelper.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi.g.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_1qzigzwg_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_1qzigzwg_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_1qzigzwg_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_1qzigzwg_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_2lv0lipb_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_2lv0lipb_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_2lv0lipb_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_2lv0lipb_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_53eyq0ml_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_53eyq0ml_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_53eyq0ml_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_53eyq0ml_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_5rkao4ak_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_5rkao4ak_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_5rkao4ak_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_5rkao4ak_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_MarkupCompile.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_MarkupCompile.lref" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_cpvjvpjz_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_cpvjvpjz_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_cpvjvpjz_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_cpvjvpjz_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_j2cshiqy_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_j2cshiqy_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_j2cshiqy_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_j2cshiqy_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_mutczqny_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_mutczqny_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_mutczqny_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_mutczqny_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_oa5gels4_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_oa5gels4_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_oa5gels4_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_oa5gels4_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_oy5xqx3a_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_oy5xqx3a_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_oy5xqx3a_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_oy5xqx3a_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_rt1sqi2n_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_rt1sqi2n_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_rt1sqi2n_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_rt1sqi2n_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_svvnca0c_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_svvnca0c_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_svvnca0c_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_svvnca0c_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_t2yswdhv_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_t2yswdhv_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_t2yswdhv_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_t2yswdhv_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_uj0vq14g_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_uj0vq14g_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_uj0vq14g_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_uj0vq14g_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_vkjplben_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_vkjplben_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_vkjplben_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_vkjplben_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_wnkrvvuw_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_wnkrvvuw_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_wnkrvvuw_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_wnkrvvuw_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_zxtn4emd_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_zxtn4emd_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_zxtn4emd_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/GeometryFigureUi_zxtn4emd_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/View/App.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/View/MainWindow.baml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/View/MainWindow.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/ref/GeometryFigureUi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/Debug/net7.0-windows/refint/GeometryFigureUi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/GeometryFigureUi.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/GeometryFigureUi.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/GeometryFigureUi.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/GeometryFigureUi_wnkrvvuw_wpftmp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/GeometryFigureUi_wnkrvvuw_wpftmp.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/GeometryFigureUi_wnkrvvuw_wpftmp.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometryFigureUi/obj/rider.project.restore.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2gTEmv4oScljB3LeEDTZ40hFtmP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kostya/IdeaProjects/GeometryFigure&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kostya\IdeaProjects\GeometryFigure" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0aa2f83-95f1-4820-87d2-e9e274c4457a" name="Changes" comment="" />
+      <created>1715713332390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715713332390</updated>
+      <workItem from="1715713333459" duration="575000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
