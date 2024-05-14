@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryFigureUi", "GeometryFigureUi\GeometryFigureUi.csproj", "{0440C4B1-2024-4B0A-B96C-522F0FA46C56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryFigureLib", "GeometryFigureLib\GeometryFigureLib.csproj", "{723D9252-CBA8-49EA-98F9-8CFBE1870C33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0440C4B1-2024-4B0A-B96C-522F0FA46C56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0440C4B1-2024-4B0A-B96C-522F0FA46C56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0440C4B1-2024-4B0A-B96C-522F0FA46C56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0440C4B1-2024-4B0A-B96C-522F0FA46C56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{723D9252-CBA8-49EA-98F9-8CFBE1870C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723D9252-CBA8-49EA-98F9-8CFBE1870C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723D9252-CBA8-49EA-98F9-8CFBE1870C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723D9252-CBA8-49EA-98F9-8CFBE1870C33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

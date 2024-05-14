@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "GeometryFigureUi/1.0.0": {
+        "dependencies": {
+          "GeometryFigureLib": "1.0.0"
+        },
+        "runtime": {
+          "GeometryFigureUi.dll": {}
+        }
+      },
+      "GeometryFigureLib/1.0.0": {
+        "runtime": {
+          "GeometryFigureLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GeometryFigureUi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GeometryFigureLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
